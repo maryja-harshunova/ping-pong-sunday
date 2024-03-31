@@ -1,4 +1,5 @@
 from pygame import *
+from gameSprite import *
 
 BGCOLOR = (230, 200, 89)
 TEXTCOLOR = (134, 74, 249)
